@@ -44,3 +44,9 @@
 | HyperX QuadCast, Antivibração, LED, Preto e Vermelho, Compatível com PC, Mac e Consoles - HX-MICQC-BK | Microphone | HyperX |
 | Live Streamer Avermedia CAM 513, 4K UHD, 3840x2160P, USB, Microfone Embutido, Preto - 61PW513000AC | Webcam | Avermedia |
 | Wacom Intuos Pro M - PTH660 | Digitizing tablet | Wacom |
+
+## ...
+
+<p align="center">
+  <img src="https://github.com/backtoaldo/My-setup-for-work/blob/main/MySetup.jpeg" />
+</p>
